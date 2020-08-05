@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://github.com/TyjChristy/ghy.github.io/sitemap.xml
